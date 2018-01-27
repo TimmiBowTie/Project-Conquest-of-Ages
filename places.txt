@@ -1,0 +1,15 @@
+Places (List)
+_Elve Forest
+_Snowy Forest
+ Drakes Hollow
+ Hanging Rock Cliff
+_OrkishCamp
+ Dragons Cave
+_Dwarven Deep Mines
+ Dwarven Surface Mines
+ Never Sleep Peak
+_The Dark Stone Temple
+ Demonic Caverns
+_Temple of Red Angel
+_Eclipse Pathway
+_Eclipse Mountain
