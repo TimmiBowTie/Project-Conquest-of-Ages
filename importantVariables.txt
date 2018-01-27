@@ -1,0 +1,16 @@
+Interactive Characters
+-Warlock Margold
+
+Major Character Variables
+-name = mainName
+-race = raceChoice
+-class = classChoice
+-stats 
+magic
+wisdom
+discipline
+strength
+dexterity
+stealth
+charisma
+badassness
